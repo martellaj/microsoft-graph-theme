@@ -1,0 +1,2 @@
+# Microsoft Graph VS Code theme
+This is a VS Code theme based on the [Microsoft Graph website](http://www.graph.microsoft.io). Heavy with blues and purples, this theme is great for editing Markdown or code.

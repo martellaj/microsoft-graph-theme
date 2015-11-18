@@ -1,0 +1,21 @@
+{
+	"name": "theme-microsoft-graph",
+	"description": "A Microsoft Graph theme for VS Code.",
+	"version": "0.0.1",
+	"publisher": "martellaj",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Microsoft Graph",
+				"uiTheme": "vs-dark",
+				"path": "./themes/base.tmTheme"
+			}
+		]
+	}
+}
